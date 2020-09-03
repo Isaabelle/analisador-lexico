@@ -1,5 +1,5 @@
 prog para60
-5 dddd55
+5 dddd 55
 	int ini, f, aux, i;
 	imprima "digite limite inferior: ";
 	leia ini;
